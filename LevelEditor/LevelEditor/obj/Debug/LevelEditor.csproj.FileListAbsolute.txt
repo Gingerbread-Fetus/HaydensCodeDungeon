@@ -10,3 +10,9 @@ C:\Users\Hayden\Source\Repos\x0728671\LevelEditor\LevelEditor\obj\Debug\LevelEdi
 C:\Users\Hayden\Source\Repos\HaydensCodeDungeon\LevelEditor\LevelEditor\bin\Debug\LevelEditor.exe.config
 C:\Users\Hayden\Source\Repos\HaydensCodeDungeon\LevelEditor\LevelEditor\obj\Debug\LevelEditor.exe
 C:\Users\Hayden\Source\Repos\HaydensCodeDungeon\LevelEditor\LevelEditor\obj\Debug\LevelEditor.pdb
+C:\Users\Hayden\Source\Repos\HaydensCodeDungeon\LevelEditor\LevelEditor\bin\Debug\LevelEditor.exe
+C:\Users\Hayden\Source\Repos\HaydensCodeDungeon\LevelEditor\LevelEditor\bin\Debug\LevelEditor.pdb
+C:\Users\Hayden\Source\Repos\HaydensCodeDungeon\LevelEditor\LevelEditor\obj\Debug\LevelEditor.csprojResolveAssemblyReference.cache
+C:\Users\Hayden\Source\Repos\HaydensCodeDungeon\LevelEditor\LevelEditor\obj\Debug\LevelEditor.Form1.resources
+C:\Users\Hayden\Source\Repos\HaydensCodeDungeon\LevelEditor\LevelEditor\obj\Debug\LevelEditor.Properties.Resources.resources
+C:\Users\Hayden\Source\Repos\HaydensCodeDungeon\LevelEditor\LevelEditor\obj\Debug\LevelEditor.csproj.GenerateResource.Cache
